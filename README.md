@@ -4,7 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-I'm an experienced Full Stack Software Engineer, with a clear emphasis on backend development and a solid four-year track record. My expertise revolves around crafting impactful projects that tap into the transformative potential of blockchain technology. My toolkit spans various technologies, including Typescript, NodeJs, PostgresSql, MongoDB, React Js, NextJs, Solidity, Git, AWS, CI/CD, and Docker. My core strength lies in building robust backend systems using Typescript and NodeJs, alongside a strong grasp of database management through PostgresSql and MongoDB. This prowess extends seamlessly to creating user-friendly interfaces with React Js and NextJs, resulting in the delivery of cohesive and responsive applications. Furthermore, my specialization in Solidity equips me to design smart contracts and decentralized applications. Proficient in Git, I ensure efficient version control and streamlined collaboration. With a dedication to deploying and scaling applications through AWS, coupled with my commitment to CI/CD practices, I'm well-prepared to navigate efficient development processes. Fuelled by a passion for merging cutting-edge technologies with practical solutions, I'm excited to collaborate on projects that pave the way for innovative industry transformations.
+Full Stack Developer with 5+ years of experience in web development and the blockchain domain, holding a Bachelor's degree in Computer Science. Possesses a strong background in designing, optimizing, integrating, and scaling solutions to meet requirements.
+
+### My Expertise & Services
+
+## Backend System Development (TypeScript, ExpressJs, NestJs, PostgresSql, MongoDB RestApi, GraphQL, Microservices and System Design)
+## Frontend Development( TypeScript, NextJs )
+
+## Centralized and Decentralized Crypto Wallet Development (Deposits & Withdrawal System)
+## P2P Trading Platform Development
+## Centralized Exchange Platform Development (Spot & Futures Trade)
+## Trade Matching Algorithm Implementation
+## Crypto Trading Bot Development
+## Trading View Chart Integration
+## Payment Gateway Integration (Fiat & Crypto)
+## Subscription & Plan Integration Services( For Saas platform)
+
+## Smart Contract Development (Ethereum (Solidity) & Solana Blockchain (Rust) )
+## Decentralized Exchange Protocol Integration (Uniswap, Pancake Swap etc)
+## Decentralized Finance Development
+## NFT Marketpalce Developement
+## Web3 Integration Service In NextJs (Wallet Connect System, Web3 library, EthersJs library)
 
 * 🌍  I'm based in Khulna, Bangladesh
 * ✉️  You can contact me at [sujoy.swe@gmail.com](mailto:sujoy.swe@gmail.com)
