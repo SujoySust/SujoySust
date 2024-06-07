@@ -8,23 +8,23 @@ Full Stack Developer with 5+ years of experience in web development and the bloc
 
 ### My Expertise & Services
 
-## Backend System Development (TypeScript, ExpressJs, NestJs, PostgresSql, MongoDB RestApi, GraphQL, Microservices and System Design)
-## Frontend Development( TypeScript, NextJs )
+###### Backend System Development (TypeScript, ExpressJs, NestJs, PostgresSql, MongoDB RestApi, GraphQL, Microservices and System Design)
+###### Frontend Development( TypeScript, NextJs )
 
-## Centralized and Decentralized Crypto Wallet Development (Deposits & Withdrawal System)
-## P2P Trading Platform Development
-## Centralized Exchange Platform Development (Spot & Futures Trade)
-## Trade Matching Algorithm Implementation
-## Crypto Trading Bot Development
-## Trading View Chart Integration
-## Payment Gateway Integration (Fiat & Crypto)
-## Subscription & Plan Integration Services( For Saas platform)
+###### Centralized and Decentralized Crypto Wallet Development (Deposits & Withdrawal System)
+###### P2P Trading Platform Development
+###### Centralized Exchange Platform Development (Spot & Futures Trade)
+###### Trade Matching Algorithm Implementation
+###### Crypto Trading Bot Development
+###### Trading View Chart Integration
+###### Payment Gateway Integration (Fiat & Crypto)
+###### Subscription & Plan Integration Services( For Saas platform)
 
-## Smart Contract Development (Ethereum (Solidity) & Solana Blockchain (Rust) )
-## Decentralized Exchange Protocol Integration (Uniswap, Pancake Swap etc)
-## Decentralized Finance Development
-## NFT Marketpalce Developement
-## Web3 Integration Service In NextJs (Wallet Connect System, Web3 library, EthersJs library)
+###### Smart Contract Development (Ethereum (Solidity) & Solana Blockchain (Rust) )
+###### Decentralized Exchange Protocol Integration (Uniswap, Pancake Swap etc)
+###### Decentralized Finance Development
+###### NFT Marketpalce Developement
+###### Web3 Integration Service In NextJs (Wallet Connect System, Web3 library, EthersJs library)
 
 * 🌍  I'm based in Khulna, Bangladesh
 * ✉️  You can contact me at [sujoy.swe@gmail.com](mailto:sujoy.swe@gmail.com)
